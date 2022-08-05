@@ -1,0 +1,605 @@
+header {
+    background-color: white;
+    position: relative;
+    height: 220px;
+    width: 400px;
+    top: 1px;
+  }
+  
+  #one {
+    left: 10px;
+    top: 20px;
+    width: 20px;
+  }
+  
+  #two {
+    padding-left: 1080px;
+    top: 110px;
+    color: black;
+    position: absolute;
+  }
+  
+  #three {
+    padding-left: 1109px;
+    top: 90px;
+    color: black;
+    font-size: 15px;
+    font-family: verdana;
+    position: absolute;
+  }
+  
+  #four {
+    left: 1300px;
+    position: absolute;
+    top: 110px;
+  }
+  
+  #five {
+    left: 1330px;
+    top: 90px;
+    color: black;
+    position: absolute;
+    font-family: verdana;
+    font-size: 15px;
+  }
+  
+  #six {
+    font-size: 22px;
+    top: 120px;
+    left: 200px;
+    position: absolute;
+    color: rgb(185,5,10);
+    font-family:;
+  }
+  
+  .a > input {
+    height: 40px;
+    border-radius: 2px;
+    width: 400px;
+    outline: none;
+    font-size: 18px;
+    border: solid grey; rgb(134, 130, 130);
+    margin-left: 400px;
+    top: 150px;
+    position: absolute;
+  }
+  
+  .ab {
+    position:absolute;
+    left:780px;
+    top:165px;
+  }
+  
+  #cashapp {
+    background-color: rgb(220, 20,20);
+    border-radius: 2px;
+    text-align: center;
+    padding: 5px 5px;
+    width:150px;
+    height:40px;
+    display:inline-block;
+    font-size: 17px;
+    left: 825px;
+    position: absolute;
+    top: 150px;
+  }
+  
+  .getapp {
+    text-decoration: none;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  #c {
+    left: 1100px;
+    top: 180px;
+    position: absolute;
+    color:grey;
+  }
+  
+  #cd {
+    left:1128px;
+    top:162px;
+    position:absolute;
+    font-family:arial;
+  }
+  
+  #d {position:absolute;
+    left:1300px;
+    top:180px;
+    color:grey;}
+    
+    #de {
+      position:absolute;
+      left:1330px;
+      top:165px;
+      font-family:verdana;
+      font-size:15px;
+    }
+    
+  section {
+    background-color:rgb(225,223,222);
+    position: relative;
+    height:1330px;
+  }
+  
+  #middle{
+    position:absolute;
+    padding: 60px; 20px;
+    left:38px;
+    top:10px;
+    background-color:whitesmoke
+  }
+  
+  
+  .category:hover + .hide {
+    display:block;
+    color:black;
+    background-color:grey;
+    width:500px;
+    height:300px;
+    position:absolute;
+    font-family:verdana;
+  }
+  
+  .hide {
+    display:none;
+  }
+  
+  
+  .katie{
+    color:black;
+    text-decoration:none;
+  }
+  
+  /*link when visited*/
+  a:hover {
+    color:red;
+  }
+  
+  h2{
+    position:absolute;
+    left:px;
+    top:10px;
+    
+  }
+  .category{
+    left:10px;
+    position:relative;
+    top:2px;
+    width:40mm;
+  }
+  
+  .time{
+    left:350px;
+    top:10px;
+    position:absolute;
+    }
+  
+  .timex {
+    left:1280px;
+    position:absolute;
+    top:10px;
+  }
+  
+  .timey {
+    position:absolute;
+    left:1280px;
+    top:230px;
+  }
+  
+  .middlebelt {
+    position:absolute;
+    background-color:rgba(220,0,0,0.5);
+    padding-top:5px;
+    padding-left:900px;
+    top:500px;
+    left:100px;
+  }
+  
+  #open {
+    position:absolute;
+    background-color:rgba(220,0,0,0.5);
+    padding-top:5px;
+    padding-left:150px;
+    top:10px;
+    left:38px;
+    }
+  
+  .mid {
+    position:absolute;
+    padding:180px 650px;
+    background-color:white;
+    top:505px;
+    left:100px;
+  }
+  h3 {
+    position:absolute;
+    padding-top:185px;
+    padding-left:70px;
+    font-family:arial;
+    font-size:14px;
+  }
+  
+  .deals {
+    position:absolute;
+    background-color:red;
+    padding-left:100px;
+    padding-top:5px;
+    top:560px;     
+    left:130px;
+  }
+  
+  .phones{
+    position:absolute;
+    padding-top:300px;
+    padding-left:130px;
+    font-family:sans-serif;
+  
+  }
+  
+  .cart{
+    position:absolute;
+    top:260px;
+    padding-left:18px;
+  }
+  
+  .strike {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:80px;
+    top:448px;
+    color:red;
+  }
+  
+  .phones2{
+    position:absolute;
+    padding-top:260px;
+    padding-left:360px;
+    font-family:sans-serif;
+  }
+  
+  .cart2 {
+    position:absolute;
+    top:260px;
+    padding-left:30px;
+  }
+  
+  .strike2 {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:80px;
+    top:458px;
+    color:red;
+  }
+  
+  .phones3 {
+    position:absolute;
+    padding-top:260px;
+    padding-left:620px;
+    font-family:sans-serif;
+  }
+  
+  .cart3 {
+    position:absolute;
+    top:260px;
+    padding-left:30px;
+  }
+  
+  .strike3 {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:80px;
+    top:458px;
+    color:red;
+  }
+    
+  .phones4 {
+    position:absolute;
+    padding-top:260px;
+    padding-left:870px;
+    font-family:sans-serif;
+  }
+  
+  .cart4 {
+    position:absolute;
+    top:260px;
+    padding-left:30px;
+  }
+  
+  .strike4 {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:80px;
+    top:458px;
+    color:red;
+  }
+  
+  .phones5 {
+    position:absolute;
+    padding-top:260px;
+    padding-left:1100px;
+    font-family:sans-serif;
+  }
+  
+  .cart5 {
+    position:absolute;
+    top:260px;
+    padding-left:30px;
+  }
+  
+  .strike5 {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:80px;
+    top:458px;
+    color:red;
+  }
+  
+  #shownow{
+    position:absolute;
+    top:1210px;
+    left:125px;
+  }
+  
+  #oppo {
+    position:absolute;
+    top:900px;
+    left:125px;
+  }
+  
+  #reno {
+    position:absolute;
+    left:765px;
+    top:900px;
+    }
+  
+  article {
+    background-color:rgb(225,220,200);
+    position:relative;
+    height:650px;
+  }
+  
+  .june {
+    position:absolute;
+    background-color:rgba(220,2,2,0.6);
+    padding:3px 500px;
+    top:11px;
+    left:130px;
+  }
+  
+  .july {
+    position:absolute;
+    background-color:white;
+    padding:310px 620px;
+    left:130px;
+    top:15px;
+  }
+  
+  .august {
+    position:absolute;
+    padding:30px 150px;
+  }
+  
+  .flash{
+    position:absolute;
+    left:780px;
+    top:20px;
+    color:black;
+    font-family:monospace;
+    font-size:20px;
+  }
+  
+  .buyphone{
+    position:absolute;
+    top:120px;
+    left:800px;
+  }
+  
+  .mycart {
+    position:absolute;
+    top:27px;
+    left:15px;
+  }
+  
+  .amount {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:100px;
+    top:200px;
+    color:red;
+  }
+  
+  .buyphone2 {
+    position:absolute;
+    top:120px;
+    left:1100px;
+  }
+  
+  .mycart2 {
+    position:absolute;
+    top:27px;
+    left:15px;
+  }
+  
+  .amount2 {
+    text-decoration:line-through;
+    position:absolute;
+    padding-left:100px;
+    top:200px;
+    color:red; }
+  
+  
+  main {
+    background-color: black;
+    position: relative;
+    height: 200px;
+  }
+  
+  #box {
+    position:absolute;
+    color:white;
+    top:20px;
+    left:30px;
+    font-family:arial; 
+  }
+  
+  #box2 {
+    position:absolute;
+    top:100px;
+    left:30px;
+    color:white;
+    font-family:arial;
+  }
+  
+  #box3 {
+    position:absolute;
+    top:100px;
+    left:680px;
+    font-family:sans-serif;
+  }
+  
+  #but {
+    position:absolute;
+    background-color:red;
+    padding:12px 60px;
+    top:100px;
+    left:1020px;
+    color:white;
+    text-align:center;
+    font-family:arial;
+    font-size:15px;
+    border-radius:2px;
+  }
+  
+  .button {
+    text-decoration:none;
+    color:white;
+  }
+  
+  #last {
+    position:absolute;
+    background-color:#ff2200;
+    padding:3px 780px;
+    top:195px;
+    left:0px;
+  }
+  
+  #lastlast {
+    position:absolute;
+    background-color:orange;
+    padding:3px 299px;
+    top:195px;
+    left:968px;
+  }
+  
+  footer {
+    background-color:rgb(220,220,215);
+    position: relative;
+    height: 350px;
+  }
+  
+  #payment {
+    position:absolute;
+    top:30px;
+    left:40px;
+    color:black;
+    font-family:arial; cursive;
+  }
+  
+  .mastercard {
+    position:absolute;
+    top:80px;
+    left:40px;
+  }
+  
+  .visa {
+    position:absolute;
+    top:78px;
+    left:120px;
+  }
+  
+  #about {
+    position:absolute;
+    left:550px;
+    top:30px;
+  }
+  
+  .country {
+    text-decoration:none;
+    color:black;
+  }
+  
+  #contact {
+    position:absolute;
+    left:1050px;
+    top:30px;
+    font-family:arial;
+  }
+  
+  .con {
+    color:black;
+    text-decoration:none;
+    font-family:arial;
+  }
+  
+  .info {
+    color:black;
+    text-decoration:none;
+    font-family:arial;
+    font-size:15px;
+  }
+  
+  #icon {
+  position:absolute;
+  display:inline;
+  top:152px;
+  left:1051px;
+  }
+  
+  #ng {
+    position:absolute;
+    top:135px;
+    left:1073px;
+    font-family:arial;
+  }
+  
+  #tweet {
+  position:absolute;
+  top:151px;
+  left:1145px;
+  color:black;
+  }
+  
+  .ngl {
+    position:absolute;
+    top:135px;
+    left:1167px;
+    font-family:arial;
+  }
+  
+  #fb {
+  position:absolute;
+  top:150px;
+  left:1242px;
+  }
+  
+  .fb {
+    position:absolute;
+    top:135px;
+    left:1262px;
+    font-family:arial;
+  }
+  
+  #copy {
+    position:absolute;
+    top:286px;
+    left:50px;
+  }
+  
+  .copy {
+    position:absolute;
+    top:270px;
+    left:70px;
+  }
